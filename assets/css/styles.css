@@ -1,0 +1,235 @@
+ /* custom variables */
+:root {
+  --background: var(--gray);
+  --textColor: var(--black);
+  --buttonTextColor: var(--black);
+  --lineColor: var(--blue);
+  --cardBg: var(--white);
+  --headerBackground: var(--white);
+  --footerBackground: var(--gray);
+
+  --blue: #2666EF;
+  --rebrand-bright-green: 30, 243, 150, 1;
+  --rebrand-gray: 236, 234, 222;
+  --line: solid 5px rgba(var(--rebrand-bright-green));
+
+  /* Elevation */
+  --level_1: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --level-2: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --level-3: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --level-4: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+      0 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+  /* Positioning */
+  --containerPadding: 2.5%;
+  --headerHeight: 7rem;
+  --borderRadius: 25px;
+  --navButtonPadding: 1% 4% 1% 4%;
+  --linkButtonPadding: 1% 4% 2.5% 4%;
+}
+
+/* Rebranding Updates  */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.body-lh {
+  line-height: 1.8rem;
+}
+
+@media(min-width: 992px) {
+  .left-then-center {
+    text-align: center;
+  }
+}
+
+.hover-links {
+  color: #000;
+}
+
+.hover-links:hover {
+  color: rgba(var(--rebrand-primary));
+}
+
+/* Header */
+.info-btn{
+  border: solid 2px rgba(var(--rebrand-bright-green));
+  border-radius: 30px;
+}
+
+@media (min-width: 992px) {
+  .nav-list {
+    right: 0;
+    position: absolute;
+    padding-right: 5rem;
+  }
+  .header-logo{
+    padding-left: 5rem;
+  }
+}
+
+
+/* Landing page */
+.landing-hero-img{
+  width: 100%;
+}
+
+.bordered-btn:hover{
+  color: rgba(var(--rebrand-bright-green));
+}
+
+@media (min-width: 992px){
+  .landing-hero-img{
+    width: 260px;
+  }
+  .landing-hero-copy {
+    padding-left: 3rem;
+  }
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+
+.hero-body {
+  font-weight: 500;
+  size: 20px;
+  line-height: 26px;
+  letter-spacing: -1%;
+}
+
+.color-bullets {
+  list-style: none;
+}
+
+.color-bullets li::before {
+  color: rgba(var(--rebrand-primary));
+  content: "\2022";
+  font-weight: bold;
+  display: inline-block;
+  padding-right: 1em;
+}
+
+.contact-form {
+  background: white;
+  width: max-content;
+}
+
+#lead-submit-btn {
+  border: none;
+  background-color: white;
+}
+
+.center-then-left {
+  text-align: center;
+}
+
+.guide-btn-text{
+  padding-right: 2rem;
+}
+
+@media (min-width: 992px) {
+  .center-then-left{
+    text-align: left;
+  }
+  .landing-page-form{
+    width: fit-content;
+    position: relative;
+    top:8rem;
+  }
+  .locations-map-el{
+    padding-top: 7rem;
+  }
+  .hero-apply-btn{
+    padding-left: 1rem;
+  }
+}
+
+.primary-header{
+  color: rgba(var(--rebrand-primary));
+}
+
+.bg-gray {
+  background: rgba(var(--rebrand-gray));
+}
+
+.color-check {
+  height: fit-content;
+  padding-right: 1em;
+}
+
+.tuition-card {
+  border: solid 2px rgba(var(--rebrand-primary));
+}
+
+.popular-card {
+  border: solid 6px rgba(var(--rebrand-primary));
+}
+
+.upcoming-boxes {
+  border: solid 2px rgba(var(--rebrand-primary));
+  border-radius: 12px;
+}
+
+.footer-links a{
+  color: white;
+}
+
+.footer-links a:hover{
+  color: rgba(var(--rebrand-bright-green));
+}
+
+.footer-title {
+  color: rgba(var(--rebrand-bright-green));
+}
+
+.footer-logo{
+  max-width: 90%;
+}
+
+@media (min-width: 992px) {
+  .footer-logo-col{
+    padding-left: 5rem;
+  }
+  .footer-logo{
+    max-width: 70%;
+  }
+  .program-headers {
+    min-height: 6rem;
+  }
+}
+
+.program-icon {
+  height: 60px;
+}
+
+
+/* End of Rebranding Updates  */
+
+
+/* Old styles  */
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 10px;
+  display: none;
+  z-index: 1;
+  height: 3.5rem;
+}
+
+u {
+  text-decoration:none;
+  border-bottom:8px solid rgba(var(--rebrand-bright-green));
+}
+
+  
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Roboto+Slab:wght@200;300&display=swap');
+@import "./bootstrap.min.css";
