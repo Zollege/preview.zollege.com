@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Wichita Falls Dental Assistant School",
+    "city": "Wichita Falls DAS",
+    "state": "TX",
+    "website": "https://wichitafallsdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2912872379"
+  },
+  {
+    "name": "Montgomery Dental Assistant School",
+    "city": "Montgomery DAS",
+    "state": "AL",
+    "website": "https://montgomerydentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914092256"
+  },
+  {
+    "name": "Abilene Medical Assistant School",
+    "city": "Abilene MAS",
+    "state": "TX",
+    "website": "https://abilenemedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2913693670"
+  },
+  {
+    "name": "Fort Worth Dental Assistant School",
+    "city": "Fort Worth DAS",
+    "state": "TX",
+    "website": "https://fortworthdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2913491423"
+  },
+  {
+    "name": "Las Vegas Medical Assistant School",
+    "city": "Las Vegas MAS",
+    "state": "NV",
+    "website": "https://lasvegasmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914846017"
+  },
+  {
+    "name": "Austin Dental Assistant School",
+    "city": "Austin DAS",
+    "state": "TX",
+    "website": "https://austindentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053133511"
+  },
+  {
+    "name": "San Antonio Dental Assistant School",
+    "city": "San Antonio DAS",
+    "state": "TX",
+    "website": "https://sanantoniodentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053133509"
+  },
+  {
+    "name": "Baton Rouge Dental Assistant Academy",
+    "city": "Baton Rouge DAA",
+    "state": "LA",
+    "website": "https://batonrougedentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2917600636"
+  },
+  {
+    "name": "Gonzales Medical Assistant School",
+    "city": "Gonzales MAS",
+    "state": "LA",
+    "website": "https://gonzalesmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914879375"
+  },
+  {
+    "name": "League City Medical Assistant School",
+    "city": "League City MAS",
+    "state": "TX",
+    "website": "https://leaguecitymedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2969764930"
+  },
+  {
+    "name": "San Antonio Medical Assistant School",
+    "city": "San Antonio MAS",
+    "state": "TX",
+    "website": "https://sanantoniomedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914366797"
+  },
+  {
+    "name": "Austin Medical Assistant School",
+    "city": "Austin MAS",
+    "state": "TX",
+    "website": "https://austinmedicalassistantschool.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "3052750460"
+  },
+  {
+    "name": "College Station Dental Assistant School",
+    "city": "College Station DAS",
+    "state": "TX",
+    "website": "https://collegestationdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914355151"
+  },
+  {
+    "name": "Denver Dental Assistant School",
+    "city": "Denver DAS",
+    "state": "CO",
+    "website": "https://denverdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914366805"
+  },
+  {
+    "name": "Temple Dental Assistant School",
+    "city": "Temple DAS",
+    "state": "TX",
+    "website": "https://templedentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914355159"
+  },
+  {
+    "name": "Savannah Dental Assistant School",
+    "city": "Savannah DAS",
+    "state": "GA",
+    "website": "https://savannahdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2912872377"
+  },
+  {
+    "name": "Indianapolis Dental Assistant School",
+    "city": "Indianapolis DAS",
+    "state": "IN",
+    "website": "https://indydentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053773411"
+  },
+  {
+    "name": "Bellingham Dental Assistant School",
+    "city": "Bellingham DAS",
+    "state": "WA",
+    "website": "https://bellinghamdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914359491"
+  },
+  {
+    "name": "St. John Dental Assistant School",
+    "city": "St. John DAS",
+    "state": "IN",
+    "website": "https://stjohndentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3052750461"
+  },
+  {
+    "name": "Tucson Dental Assistant School",
+    "city": "Tucson DAS",
+    "state": "AZ",
+    "website": "https://tucsondentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914381769"
+  },
+  {
+    "name": "Birmingham Dental Assistant School",
+    "city": "Birmingham DAS",
+    "state": "AL",
+    "website": "https://birminghamdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2913491426"
+  },
+  {
+    "name": "Dalton Dental Assistant School",
+    "city": "Dalton DAS",
+    "state": "GA",
+    "website": "https://daltondentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914092255"
+  },
+  {
+    "name": "Tacoma Dental Assistant School",
+    "city": "Tacoma DAS",
+    "state": "WA",
+    "website": "https://tacomadentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914359487"
+  },
+  {
+    "name": "Phoenix Dental Assistant School",
+    "city": "Phoenix DAS",
+    "state": "AZ",
+    "website": "https://phoenixdentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914359494"
+  },
+  {
+    "name": "Little Rock Dental Assistant School",
+    "city": "Little Rock DAS",
+    "state": "AR",
+    "website": "https://littlerockdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914381774"
+  },
+  {
+    "name": "Savannah Dental Assistant School",
+    "city": "Savannah DAS",
+    "state": "GA",
+    "website": "https://savannahdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2912872377"
+  },
+  {
+    "name": "Bremerton Dental Assistant School",
+    "city": "Bremerton DAS",
+    "state": "WA",
+    "website": "https://bremertondentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914355154"
+  },
+  {
+    "name": "Houston Dental Assistant Academy",
+    "city": "Houston DAA",
+    "state": "TX",
+    "website": "https://houstondentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914383633"
+  },
+  {
+    "name": "Alvin Dental Assistant School",
+    "city": "Alvin DAS",
+    "state": "TX",
+    "website": "https://alvindentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "5294451278"
+  },
+  {
+    "name": "Waco Dental Assistant School",
+    "city": "Waco DAS",
+    "state": "TX",
+    "website": "https://dentalassistantschoolwaco.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914333793"
+  },
+  {
+    "name": "Amarillo Medical Assistant School",
+    "city": "Amarillo MAS",
+    "state": "TX",
+    "website": "https://amarillomedicalassistantschool.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914846018"
+  },
+  {
+    "name": "Shreveport Dental Assistant School",
+    "city": "Shreveport DAS",
+    "state": "LA",
+    "website": "https://shreveportdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914355152"
+  },
+  {
+    "name": "Augusta Dental Assistant School",
+    "city": "Augusta DAS",
+    "state": "GA",
+    "website": "https://augustadentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914359495"
+  },
+  {
+    "name": "Fort Worth Dental Assistant School",
+    "city": "Fort Worth DAS",
+    "state": "TX",
+    "website": "https://fortworthdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2913491423"
+  },
+  {
+    "name": "Franklin Dental Assistant School",
+    "city": "Franklin DAS",
+    "state": "IN",
+    "website": "https://franklindentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914381771"
+  },
+  {
+    "name": "San Antonio Dental Assistant School",
+    "city": "San Antonio DAS",
+    "state": "TX",
+    "website": "https://sanantoniodentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053133509"
+  },
+  {
+    "name": "Dallas Dental Assistant School",
+    "city": "Dallas DAS",
+    "state": "TX",
+    "website": "https://dallasdentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053773412"
+  },
+  {
+    "name": "Tacoma Dental Assistant School",
+    "city": "Tacoma DAS",
+    "state": "WA",
+    "website": "https://tacomadentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914359487"
+  },
+  {
+    "name": "Tyler Dental Assistant School",
+    "city": "Tyler DAS",
+    "state": "TX",
+    "website": "https://tylerdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914381773"
+  },
+  {
+    "name": "Odessa Dental Assistant School",
+    "city": "Odessa DAS",
+    "state": "TX",
+    "website": "https://odessadentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914381780"
+  },
+  {
+    "name": "Granbury Medical Assistant School",
+    "city": "Granbury MAS",
+    "state": "TX",
+    "website": "https://granburymedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914808249"
+  },
+  {
+    "name": "Colorado Springs Dental Assistant School",
+    "city": "Colorado Springs DAS",
+    "state": "CO",
+    "website": "https://coloradospringsdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "8930631338"
+  },
+  {
+    "name": "College Station Medical Assistant School",
+    "city": "College Station MAS",
+    "state": "TX",
+    "website": "https://collegestationmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914853139"
+  },
+  {
+    "name": "Olympia Dental Assistant School",
+    "city": "Olympia DAS",
+    "state": "WA",
+    "website": "https://olympiadentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914381770"
+  },
+  {
+    "name": "South Bend Dental Assistant School",
+    "city": "South Bend DAS",
+    "state": "IN",
+    "website": "https://southbenddentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914366800"
+  },
+  {
+    "name": "Spokane Dental Assistant School",
+    "city": "Spokane DAS",
+    "state": "WA",
+    "website": "https://spokanedentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053154704"
+  },
+  {
+    "name": "Lake Jackson Medical Assistant School",
+    "city": "Lake Jackson MAS",
+    "state": "TX",
+    "website": "https://lakejacksonmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914815028"
+  },
+  {
+    "name": "Lubbock Dental Assistant School",
+    "city": "Lubbock DAS",
+    "state": "TX",
+    "website": "https://lubbockdentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914359490"
+  },
+  {
+    "name": "Houston Medical Assistant School",
+    "city": "Houston MAS",
+    "state": "TX",
+    "website": "https://houstonmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "8063262862"
+  },
+  {
+    "name": "Birmingham Dental Assistant School",
+    "city": "Birmingham DAS",
+    "state": "AL",
+    "website": "https://birminghamdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2913491426"
+  },
+  {
+    "name": "Chicago Dental Assistant School",
+    "city": "Chicago DAS",
+    "state": "IL",
+    "website": "https://chicagodentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914092260"
+  },
+  {
+    "name": "Chicago Medical Assistant School",
+    "city": "Chicago MAS",
+    "state": "IL",
+    "website": "https://chicagomedicalassistantschool.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "6533260457"
+  },
+  {
+    "name": "Magnolia Dental Assistant School",
+    "city": "Magnolia DAS",
+    "state": "TX",
+    "website": "https://magnoliadentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914333795"
+  },
+  {
+    "name": "Las Vegas Dental Assistant School",
+    "city": "Las Vegas DAS",
+    "state": "NV",
+    "website": "https://lasvegasdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914355158"
+  },
+  {
+    "name": "Wichita Falls Medical Assistant School",
+    "city": "Wichita Falls MAS",
+    "state": "TX",
+    "website": "https://wichitafallsmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914879374"
+  },
+  {
+    "name": "Atlanta Dental Assistant School",
+    "city": "Atlanta DAS",
+    "state": "GA",
+    "website": "https://atlantadentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914418783"
+  },
+  {
+    "name": "Abilene Dental Assistant School",
+    "city": "Abilene DAS",
+    "state": "TX",
+    "website": "https://abilenedentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2918054557"
+  },
+  {
+    "name": "Bloomington Dental Assistant School",
+    "city": "Bloomington DAS",
+    "state": "IN",
+    "website": "https://bloomingtondentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "5852025507"
+  },
+  {
+    "name": "Atlanta Medical Assistant School",
+    "city": "Atlanta MAS",
+    "state": "GA",
+    "website": "https://atlantamedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "4403675136"
+  },
+  {
+    "name": "Indianapolis Dental Assistant School",
+    "city": "Indianapolis DAS",
+    "state": "IN",
+    "website": "https://indydentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053773411"
+  },
+  {
+    "name": "Amarillo Dental Assistant School",
+    "city": "Amarillo DAS",
+    "state": "TX",
+    "website": "https://amarillodentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2375674833"
+  },
+  {
+    "name": "San Antonio Medical Assistant School - South",
+    "city": "San Antonio MAS",
+    "state": "TX",
+    "website": "https://sanantoniomedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914366797"
+  },
+  {
+    "name": "Baton Rouge Dental Assistant Academy",
+    "city": "Baton Rouge DAA",
+    "state": "LA",
+    "website": "https://batonrougedentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2917600636"
+  },
+  {
+    "name": "Dallas Dental Assistant School",
+    "city": "Dallas DAS",
+    "state": "TX",
+    "website": "https://dallasdentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "3053773412"
+  },
+  {
+    "name": "New Braunfels Dental Assistant School",
+    "city": "New Braunfels DAS",
+    "state": "TX",
+    "website": "https://newbraunfelsdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914092264"
+  },
+  {
+    "name": "Lubbock Medical Assistant School",
+    "city": "Lubbock MAS",
+    "state": "TX",
+    "website": "https://lubbockmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "2914865683"
+  },
+  {
+    "name": "Dallas Medical Assistant School",
+    "city": "Dallas MAS",
+    "state": "TX",
+    "website": "https://dallasmedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "6533269535"
+  },
+  {
+    "name": "Nacogdoches Dental Assistant School",
+    "city": "Nacogdoches DAS",
+    "state": "TX",
+    "website": "https://nacogdochesdentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914355161"
+  },
+  {
+    "name": "Huntsville Dental Assistant School - Alabama",
+    "city": "Huntsville DAS",
+    "state": "AL",
+    "website": "https://huntsvilledentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2912872380"
+  },
+  {
+    "name": "Huntsville Dental Assistant School - Texas",
+    "city": "Huntsville",
+    "state": "TX",
+    "website": "https://huntsvilledentalassistantschool.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "4888728833"
+  },
+  {
+    "name": "Seattle Dental Assistant School",
+    "city": "Seattle DAS",
+    "state": "WA",
+    "website": "https://seattledentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914092268"
+  },
+  {
+    "name": "Tulsa Dental Assistant School",
+    "city": "Tulsa DAS",
+    "state": "OK",
+    "website": "https://tulsadentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2912872370"
+  },
+  {
+    "name": "Tulsa Medical Assistant School",
+    "city": "Tulsa MAS",
+    "state": "OK",
+    "website": "https://tulsamedicalassistant.com",
+    "curriculum_id": "MAS",
+    "hubspot_company_id": "6532767906"
+  },
+  {
+    "name": "Oklahoma City Dental Assistant School",
+    "city": "Oklahoma City DAS",
+    "state": "OK",
+    "website": "https://oklahomacitydentalassistant.com",
+    "curriculum_id": "DAS",
+    "hubspot_company_id": "2914366798"
+  }
+]
